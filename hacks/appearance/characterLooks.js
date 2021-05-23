@@ -2,15 +2,15 @@
 // Equipment
 
 // Hat
-_.player.equipment.hat = 1;
+_.player.equipment.hat = Red Riding Hood;
 // Outfit
-_.player.equipment.outfit = 1;
+_.player.equipment.outfit = Red Riding Togs;
 // Weapon
-_.player.equipment.weapon = 1;
+_.player.equipment.weapon = Earthquake;
 // Spell Relic
-_.player.equipment.spellRelic = 1;
+_.player.equipment.spellRelic = Powerful Strom Relic;
 //Boots
-_.player.equipment.boots = 1;
+_.player.equipment.boots = Emerald Elf Booties;
 // Cloud mount (Only 1)
 _.player.equipment.mount = 1
 // Follow
